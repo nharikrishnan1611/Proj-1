@@ -122,7 +122,6 @@ def split_data(df_encoded):
     print("X_train shape:", X_train.shape)
     print("X_test shape:", X_test.shape)
     print("\n=================================\n")
-    print("Bersin")
 
 # -------------------------------
 # MAIN FUNCTION
